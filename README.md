@@ -10,4 +10,8 @@ Join some roblox servers like gg/roblox, gg/adoptme, that has their roblox users
 Verify on it and then execute the script on a python replit\
 
 
-(You will most likely be banned or disabled in a couple of minutes though since it mass dm phishing links)\
+(You will most likely be banned or disabled in a couple of minutes though since it mass dm phishing links)
+
+![image](https://user-images.githubusercontent.com/80835991/160622265-01e19ad1-8c6c-4a3a-8408-fc1932770231.png)
+
+Made by Dreamer#5114
